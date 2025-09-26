@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @basilflowerhome
-- 👀 I’m interested in Project Moon, OMORI, and ULTRAKILL
-- 🌱 I’m currently learning GDScript to make games in Godot
+- 👋 Hi, I’m @fishyishy5150
+- 👀 I’m interested in games like Limbus Company and Library of Ruina
+- 🌱 I’m currently refreshing my C# skills to build a weirdcore-style game
 
 <!---
 basilflowerhome/basilflowerhome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
